@@ -5,3 +5,5 @@ Edad_Ingeniero INT,
 Peso_Ingeniero NUMBER,
 Correo_Ingeniero VARCHAR2(100)
 );
+
+SELECT * FROM tb_Ingeniero
